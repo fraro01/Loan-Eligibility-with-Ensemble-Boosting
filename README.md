@@ -17,4 +17,4 @@ The purpose of the notebook is to show and manipulate a huge dataset collected f
 Based on statistics we decide which the best one is.\
 Further conclusions and possible expansions are presented.
 
-<img src="loan.JPG" style="width:75%;">
+<img src="loan.JPG" style="width:50%;">
